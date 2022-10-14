@@ -5,6 +5,14 @@
 
 This application is a simple picture in picture example
 
+## 
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+[Click Here To Article](https://medium.com/@talhafaki/picture-in-picture-pip-android-150a367e94af)
+
+## 
+
 <table style="padding:10px">
 	<tr>
 		<td align="center">
